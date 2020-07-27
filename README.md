@@ -4,7 +4,7 @@ Example configuration of `persistence.xml` in Maven.
 
 ## Maven
 
-`persistence.xml`file should be kept as in structure below.
+`persistence.xml`file should be kept in your IDE as in structure structure below.
 ```bash
 .
 ├── ...
