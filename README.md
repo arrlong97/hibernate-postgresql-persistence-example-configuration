@@ -9,10 +9,10 @@ Example configuration of `persistence.xml` in Maven.
 .
 ├── ...
 ├── src                    
-|   ├── main          
-|       ├── ...
-|       └── resources
-|           └── META-INF
-|               └── persistence.xml              
+│   ├── main          
+│       ├── ...
+│       └── resources
+│           └── META-INF
+│               └── persistence.xml              
 └── ...
 ```
