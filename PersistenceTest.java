@@ -10,6 +10,6 @@ public class HibernateTest {
         entityManager.close();
         entityManagerFactory.close();
 
-        System.out.println("DONE!");
+        System.out.println("Success!");
     }
 }
