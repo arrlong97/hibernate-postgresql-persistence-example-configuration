@@ -4,7 +4,7 @@ import javax.persistence.Persistence;
 
 public class HibernateTest {
     public static void main(String[] args) {
-        EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("myDatabase");
+        EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("persistenceUnitName");
         EntityManager entityManager = entityManagerFactory.createEntityManager();
 
         entityManager.close();
